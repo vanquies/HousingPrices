@@ -1,1 +1,1 @@
-.ipynb_checkpoints
+/Workspace/.ipynb_checkpoints/
