@@ -163,7 +163,7 @@ Also could be part of decision support system for real estate agents and compani
 
 
 <a name="EDA"></a>
-### Exploratory Data Analysis
+### 1. Exploratory Data Analysis
 <details open>
   <summary>Show/Hide</summary>
   <br>
@@ -226,7 +226,7 @@ Also could be part of decision support system for real estate agents and compani
 </details>
 
 <a name="DPandBM"></a>
-### Data Preprocessing and Basic Models
+### 2. Data Preprocessing and Basic Models
 <details open>
   <summary>Show/Hide</summary>
   <br>
@@ -286,7 +286,7 @@ Also could be part of decision support system for real estate agents and compani
 </details>
 
 <a name="RFR"></a>
-### Random Forest Regression
+### 3. Random Forest Regression
 <details open>
   <summary>Show/Hide</summary>
   <br>
@@ -323,7 +323,7 @@ Also could be part of decision support system for real estate agents and compani
 </details>
 
 <a name="SVR"></a>
-### Support Vector Regression
+### 4. Support Vector Regression
 <details open>
   <summary>Show/Hide</summary>
   <br>
@@ -354,7 +354,7 @@ Also could be part of decision support system for real estate agents and compani
 </details>
 
 <a name="XGB"></a>
-### XGBoost Regression
+### 5. XGBoost Regression
 <details open>
   <summary>Show/Hide</summary>
   <br>
