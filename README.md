@@ -120,7 +120,7 @@ Also could be part of decision support system for real estate agents and compani
   * <strong>XGBoost</strong>
 </details>
 
-## Notebooks Structure:
+## Notebooks Structure
 <details>
   <a name="Notebooks_Structure"></a>
   <summary>Show/Hide</summary>
